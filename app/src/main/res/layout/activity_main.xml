@@ -24,13 +24,14 @@
         android:layout_width="244dp"
         android:layout_height="38dp"
         android:gravity="center_horizontal|center_vertical"
-        android:text="REGISTRARSE"
+        android:text="LOGIN"
         android:textSize="34sp"
         app:layout_constraintBottom_toTopOf="@+id/emailEditText"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.855" />
+        app:layout_constraintVertical_bias="0.683" />
 
     <EditText
         android:id="@+id/emailEditText"
@@ -45,11 +46,11 @@
         app:layout_constraintStart_toStartOf="parent" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/signInButton"
         android:layout_width="230dp"
         android:layout_height="49dp"
         android:layout_marginBottom="372dp"
-        android:text="Registrar"
+        android:text="Iniciar"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
