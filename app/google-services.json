@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "724025690746",
+    "project_id": "primera-entrega-24921",
+    "storage_bucket": "primera-entrega-24921.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724025690746:android:08b272411d04434301c9c3",
+        "android_client_info": {
+          "package_name": "com.Equipo3.actividad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4kR_eVmE5jmJBBcVUo753XAyZqK-1Njk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
