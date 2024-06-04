@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+        <color name="black">#FF000000</color>
+        <color name="white">#FFFFFFFF</color>
+        <color name="colorPrimary">#6200EE</color>
+        <color name="colorPrimaryVariant">#3700B3</color>
+        <color name="colorOnPrimary">#7E3232</color>
+        <color name="colorSecondary">#03DAC6</color>
+        <color name="colorSecondaryVariant">#018786</color>
+        <color name="colorOnSecondary">#000000</color>
+        <color name="colorBackground">#6DC576</color>
+        <color name="colorOnBackground">#5E000000</color>
+        <color name="colorSurface">#5696C1</color>
+        <color name="colorOnSurface">#323130</color>
+        <color name="colorError">#B00020</color>
+        <color name="colorOnError">#44508E</color>
+
+        <color name="colorAccent">#FF4081</color>
+        <color name="colorPrimaryDark">#303F9F</color>
+        <color name="colorButtonNormal">#FF4081</color>
+        <color name="colorControlHighlight">#FF4081</color>
+        <color name="colorControlNormal">#BDBDBD</color>
+
+        <color name="colorBlue">#2196F3</color>
+        <color name="colorGreen">#4CAF50</color>
+        <color name="colorRed">#F44336</color>
+        <color name="colorYellow">#FFEB3B</color>
+        <color name="colorOrange">#FF9800</color>
+        <color name="colorPurple">#9C27B0</color>
+        <color name="colorPink">#E91E63</color>
+        <color name="colorTeal">#009688</color>
+        <color name="colorLightBlue">#03A9F4</color>
+        <color name="colorLightGreen">#8BC34A</color>
+        <color name="colorLime">#CDDC39</color>
+        <color name="colorAmber">#FFC107</color>
+        <color name="colorDeepOrange">#FF5722</color>
+        <color name="colorBrown">#795548</color>
+        <color name="colorGray">#9E9E9E</color>
+        <color name="colorBlueGray">#607D8B</color>
 </resources>

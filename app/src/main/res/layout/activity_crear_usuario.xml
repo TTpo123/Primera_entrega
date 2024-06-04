@@ -11,8 +11,9 @@
         android:id="@+id/newPasswordEditText"
         android:layout_width="259dp"
         android:layout_height="48dp"
-        android:layout_marginBottom="472dp"
+        android:layout_marginBottom="452dp"
         android:ems="10"
+        android:hint="Crear Contraseña"
         android:inputType="textPassword"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -34,8 +35,9 @@
         android:id="@+id/newEmailEditText"
         android:layout_width="259dp"
         android:layout_height="53dp"
-        android:layout_marginBottom="52dp"
+        android:layout_marginBottom="24dp"
         android:ems="10"
+        android:hint="Email"
         android:inputType="textEmailAddress"
         app:layout_constraintBottom_toTopOf="@+id/newPasswordEditText"
         app:layout_constraintEnd_toEndOf="parent"
@@ -49,7 +51,6 @@
         android:text="Registrarse"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
