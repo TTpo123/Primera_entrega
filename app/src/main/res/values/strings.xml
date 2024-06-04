@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Actividad</string>
+    <string name="strCrearSesion"><u>Crear Sesion</u></string>
 </resources>

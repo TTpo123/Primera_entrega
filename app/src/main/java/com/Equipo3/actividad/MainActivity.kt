@@ -1,6 +1,7 @@
 package com.Equipo3.actividad
 
 import android.annotation.SuppressLint
+import android.content.Intent
 import android.os.Bundle
 import android.text.TextUtils
 import android.util.Log
@@ -28,6 +29,11 @@ class MainActivity : AppCompatActivity() {
         enableEdgeToEdge()
         setContentView(R.layout.activity_main)
 
+        val buttonCrearUsuario: Button = findViewById(R.id.buttonCrearUsuario)
+        buttonCrearUsuario.setOnClickListener {
+            val intent = Intent(this, CrearUsuario :: class.java)
+            startActivity(intent)
+        }
         mAuth = FirebaseAuth.getInstance()
 
         emailEditText = findViewById(R.id.emailEditText)
